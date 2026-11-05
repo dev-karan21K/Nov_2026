@@ -1,7 +1,7 @@
 @tag2
 Feature: Login page Validation
 
-    #test
+    #tester
     Background: 
     Given Launch Application
 
